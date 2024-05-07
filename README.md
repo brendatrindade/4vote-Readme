@@ -116,7 +116,7 @@ Em caso de múltiplas perguntas é possível navegar entre cada uma delas, clica
   <tr>
     <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Amanda Lima </b></sub></a><br />👨‍💻</a></td>
     <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Antonio Vitor </b></sub></a><br />👨‍💻</a></td>
-    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Brenda Araújo </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/142849685?s=400&u=8543d0a94d4b5fbb008e38ef7286be13a5209535&v=4" width="100px;" alt=""/><br /><sub><b> Brenda Araújo </b></sub></a><br />👨‍💻</a></td>
     <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Fernanda Marinho </b></sub></a><br />👨‍💻</a></td>
     <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Gabriel Baptista </b></sub></a><br />👨‍💻</a></td>
     <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Gabriel Henry </b></sub></a><br />👨‍💻</a></td>
