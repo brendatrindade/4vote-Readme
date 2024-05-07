@@ -58,23 +58,30 @@ O layout da aplicação está disponível no Figma:
 (A definir)
 
 ## 🧑‍💻 Desenvolvedores
+
 <div align="center">  
   <img align="center" width=10% src="https://github.com/brendatrindade/4vote-Readme/blob/main/imagens/simbolo%20nexustech%20colorida.png">
  </div>
  
-* Luis Mario
-* Gabriel Baptista
-* Antonio Vitor
-* José Gabriel
-* Gabriel Henry
-* Amanda Lima
-* Fernanda Marinho
-* Pedro Mendes
-* Ilson Neto
-* Naylane Ribeiro
-* Thiago Sena
-* Sara Souza
-* Brenda Araújo
+<table>
+  <tr>
+    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Amanda Lima </b></sub></a><br /><a href="" title="">👨‍💻</a></td>
+    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Antonio Vitor </b></sub></a><br /><a href="" title="">👨‍💻</a></td>
+    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Brenda Araújo </b></sub></a><br /><a href="" title="">👨‍💻</a></td>
+    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Fernanda Marinho </b></sub></a><br /><a href="" title="">👨‍💻</a></td>
+    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Gabriel Baptista </b></sub></a><br /><a href="" title="">👨‍💻</a></td>
+    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Gabriel Henry </b></sub></a><br /><a href="" title="">👨‍💻</a></td>
+    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Ilson Neto </b></sub></a><br /><a href="" title="">👨‍💻</a></td>
+    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> José Gabriel </b></sub></a><br /><a href="" title="">👨‍💻</a></td>
+    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Luis Mario </b></sub></a><br /><a href="" title="">👨‍💻</a></td>
+    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Naylane Ribeiro </b></sub></a><br /><a href="" title="">👨‍💻</a></td>
+    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Pedro Mendes </b></sub></a><br /><a href="" title="">👨‍💻</a></td>
+    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Sara Souza </b></sub></a><br /><a href="" title="">👨‍💻</a></td>
+    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Thiago Sena </b></sub></a><br /><a href="" title="">👨‍💻</a></td>      
+  </tr>
+</table>
+
+
 
 ### Créditos
 
