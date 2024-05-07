@@ -22,9 +22,9 @@
  <a href="#-desenvolvedores"> Desenvolvedores</a>
 </div>
 
-## 💻 Sobre o projeto
+## 🗒️ Sobre o projeto
 
-📄 Este projeto é um sistema de Votação/Enquete online que permite aos usuários criar e participar de Votações/Enquetes de forma segura e transparente. 
+Este projeto é um sistema de Votação/Enquete online que permite aos usuários criar e participar de Votações/Enquetes de forma segura e transparente. 
 O sistema inclui uma funcionalidade de auditoria baseada em hash MD5 para garantir a integridade dos votos.
 
 
@@ -106,7 +106,7 @@ Em caso de múltiplas perguntas é possível navegar entre cada uma delas, clica
 
 (A definir)
 
-## 🧑‍💻 Desenvolvedores
+## 💻 Desenvolvedores
 
 <div align="center">  
   <img align="center" width=10% src="https://github.com/brendatrindade/4vote-Readme/blob/main/imagens/simbolo%20nexustech%20colorida.png">
