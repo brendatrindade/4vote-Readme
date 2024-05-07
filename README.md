@@ -126,7 +126,7 @@ Em caso de múltiplas perguntas é possível navegar entre cada uma delas, clica
     <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89545660?s=80&u=48606493ce4c9b339475a8e1b8111929c9cfe5a9&v=4" width="100px;" alt=""/><br /><sub><b> Naylane Ribeiro </b></sub></a><br />👨‍💻</a></td>
     <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/99758612?s=80&u=7dea8764eb7d0b8013fdcd139d72afd93da5599a&v=4" width="100px;" alt=""/><br /><sub><b> Pedro Mendes </b></sub></a><br />👨‍💻</a></td>
     <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/143294885?v=4" width="100px;" alt=""/><br /><sub><b> Sara Souza </b></sub></a><br />👨‍💻</a></td>
-    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/108939221?s=80&u=37243c1f89549badbb28062ec61ddc62638a8459&v=4" width="100px;" alt=""/><br /><sub><b> Thiago Sena </b></sub></a><br />👨‍💻</a></td>      
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/108939221?v=4" width="100px;" alt=""/><br /><sub><b> Thiago Sena </b></sub></a><br />👨‍💻</a></td>      
   </tr>
 </table>
 
