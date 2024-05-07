@@ -26,6 +26,7 @@
 📄 Este projeto é um sistema de Votação/Enquete online que permite aos usuários criar e participar de Votações/Enquetes de forma segura e transparente. 
 O sistema inclui uma funcionalidade de auditoria baseada em hash MD5 para garantir a integridade dos votos.
 
+
 ## ⚙️ Funcionalidades
 
 1. **Autenticação de Usuário**: O sistema permite que os usuários se autentiquem para acessar as funcionalidades de criação de votações/enquetes e de participação.  
@@ -40,10 +41,16 @@ O sistema inclui uma funcionalidade de auditoria baseada em hash MD5 para garant
 ## 🎨 Layout
 
 O layout da aplicação está disponível no Figma:
-
 <a href="https://www.figma.com/file/dSK71484PNxGBrfHIaj6Jb/4Vote?type=design&node-id=1-2&mode=design&t=nDHoVIoWOr2Pg0lU-0">
   <img alt="4Vote" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%23052A76">
 </a>
+
+<div align="center">  
+  <img align="center" width=40% src="https://github.com/brendatrindade/4vote-Readme/blob/main/imagens/landpage.jpg">
+ </div>
+
+
+
 
 
 ## 🛠 Tecnologias
@@ -51,7 +58,10 @@ O layout da aplicação está disponível no Figma:
 (A definir)
 
 ## 🧑‍💻 Desenvolvedores
-
+<div align="center">  
+  <img align="center" width=10% src="https://github.com/brendatrindade/4vote-Readme/blob/main/imagens/simbolo%20nexustech%20colorida.png">
+ </div>
+ 
 * Luis Mario
 * Gabriel Baptista
 * Antonio Vitor
@@ -70,6 +80,10 @@ O layout da aplicação está disponível no Figma:
 
 Este projeto é decorrente da disciplina EXA613 - MI de Engenharia de Software - Semestre: 2024.1 do Curso: Engenharia de Computação da Universidade Estadual de Feira de Santana - UEFS.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02A6F4&height=120&section=footer"/>
+<div align="center">  
+  <img align="center" width=40% src="https://github.com/brendatrindade/4vote-Readme/blob/main/imagens/nexustech%20principal.png">
+ </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=052A76&height=120&section=footer"/>
 
 Cores: primaria - 052A76 secundaria - 02A6F4
