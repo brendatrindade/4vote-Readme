@@ -5,7 +5,7 @@
   <img align="center" width=40% src="https://github.com/brendatrindade/4vote-Readme/blob/main/imagens/4vote%20principal.png">
  </div>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=052A76&size=35&center=true&vCenter=true&width=1000&lines=Descubra+uma+plataforma+intuitiva+e+poderosa;Projetada+para+tornar+suas+enquetes+e+votações;Uma+experiência+fácil,+envolvente+e+significativa.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=052A76&size=35&center=true&vCenter=true&width=1000&lines=Uma+plataforma+intuitiva+e+poderosa;Projetada+para+tornar+suas+enquetes+e+votações;Uma+experiência+fácil,+envolvente+e+significativa.)](https://git.io/typing-svg)
 
 ##
 
