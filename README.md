@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
- <a href="#-sobre-o-projeto"> Sobre</a> •
+ <a href="#-sobre-o-projeto"> Sobre</a> • 
  <a href="#-funcionalidades"> Funcionalidades</a> • 
  <a href="#-layout"> Layout</a> • 
  <a href="#-exemplo-de-uso"> Usabilidade</a> • 
