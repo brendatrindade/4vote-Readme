@@ -17,6 +17,7 @@
  <a href="#-sobre-o-projeto"> Sobre</a> •
  <a href="#-funcionalidades"> Funcionalidades</a> • 
  <a href="#-layout"> Layout</a> • 
+ <a href="#-exemplo-de-uso"> Usabilidade</a> • 
  <a href="#-tecnologias"> Tecnologias</a> • 
  <a href="#-desenvolvedores"> Desenvolvedores</a>
 </div>
@@ -40,12 +41,16 @@ O sistema inclui uma funcionalidade de auditoria baseada em hash MD5 para garant
 
 ## 🎨 Layout
 
-O layout da aplicação está disponível no Figma:
+**O layout completo da aplicação está disponível no Figma:** 
 <a href="https://www.figma.com/file/dSK71484PNxGBrfHIaj6Jb/4Vote?type=design&node-id=1-2&mode=design&t=nDHoVIoWOr2Pg0lU-0">
   <img alt="4Vote" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%23052A76">
 </a>
 
-##
+<div align="center">  
+  <img align="center" width=40% src="https://github.com/brendatrindade/4vote-Readme/blob/main/imagens/landpage.jpg">
+</div>
+
+## 🖱️Exemplo de Uso
 
 <div align="center">  
   <img align="center" width=40% src="https://github.com/brendatrindade/4vote-Readme/blob/main/imagens/login.jpg">
@@ -54,20 +59,44 @@ O layout da aplicação está disponível no Figma:
 ##
 
 <div align="center">  
-  <img align="center" width=40% src="https://github.com/brendatrindade/4vote-Readme/blob/main/imagens/landpage.jpg">
- </div>
-
-##
-
-<div align="center">  
-  <img align="center" width=40% src="https://github.com/brendatrindade/4vote-Readme/blob/main/imagens/votacao.jpg">
- </div>
-
-##
-
-<div align="center">  
   <img align="center" width=40% src="https://github.com/brendatrindade/4vote-Readme/blob/main/imagens/enquete.jpg">
  </div>
+Após clicar em “Criar” e “Criar Enquete”, o usuário é direcionado para uma nova tela onde realiza o preenchimento dos dados referentes à enquete que deseja criar. Os campos a serem preenchidos são:   
+
+* O título da enquete, que será apresentado aos participantes;    
+* A data limite para encerramento da enquete;    
+* O tipo de acesso: público ou privado, que define quem pode participar da enquete. Sendo público aberto a todos ou privado para um grupo restrito;  
+* A descrição da enquete, que fornece mais detalhes sobre o seu propósito;    
+* A pergunta da enquete, que é a questão principal a ser respondida;    
+* As respectivas opções de resposta, que são as alternativas que os participantes podem escolher;   
+* Imagens associadas a estas opções de resposta, que ajudam a ilustrar cada alternativa.    
+
+O usuário tem ainda a opção de criar novas perguntas para compor a enquete clicando em “Nova Pergunta”. Cada pergunta adicional segue o mesmo formato da inicial, incluindo a nova pergunta, as opções de resposta e as imagens associadas. Se o usuário desejar remover uma pergunta adicionada, pode clicar no botão “Remover Pergunta”. Da mesma forma, o usuário pode remover uma opção de resposta clicando no “x” ao lado de cada opção. 
+Após preencher todos os campos e adicionar todas as perguntas desejadas, o usuário pode clicar no botão “Criar Enquete” para confirmar sua criação. Uma vez criada, a enquete fica disponível para os participantes de acordo com o tipo de acesso definido.
+
+##
+
+<div align="center">  
+  <img align="center" width=40% src="https://github.com/brendatrindade/4vote-Readme/blob/main/imagens/responderEnquete.jpg">
+</div>
+
+Após clicar em “Participar” e no caso de enquetes privadas inserir o código da enquete, ou selecionar alguma enquete pública, o usuário é direcionado para uma nova tela onde pode visualizar as informações da enquete e participar da mesma. 
+Para responder a enquete, o usuário deve clicar sobre a alternativa de sua preferência para selecioná-la e, em seguida, clicar em “Responder” para confirmar sua resposta. Isso permite que os usuários participem de enquetes de maneira fácil e intuitiva, garantindo que suas respostas sejam registradas corretamente. Uma vez que a resposta é registrada, não pode ser alterada, garantindo a integridade da enquete.
+
+
+##
+
+<div align="center">  
+  <img align="center" width=40% src="https://github.com/brendatrindade/4vote-Readme/blob/main/imagens/resultadoEnquete.jpg">
+</div>
+
+Após encerrado o período de resolução da enquete, o usuário pode verificar o resultado. Esta tela oferece uma visão clara e compreensível dos resultados, onde é possível ver as informações detalhadas e a conclusão da enquete. A visualização do resultado inclui:
+
+* Alternativa destaque: A alternativa que recebeu o maior número de respostas é destacada, permitindo ao usuário identificar rapidamente o resultado de maior preferência da enquete.
+* Resultados individuais: Cada opção de resposta é exibida juntamente com a porcentagem e a quantidade total de respostas recebidas. 
+* Total de respostas: O total geral de respostas recebidas em toda a enquete é exibido no final da tela, permitindo ao usuário identificar o público participante da enquete.
+
+Em caso de múltiplas perguntas é possível navegar entre cada uma delas, clicando no seu número correspondente ao final da tela ou em “Próximo” / ”Anterior”, visualizando seus resultados e alternativas individualmente. Vale ressaltar que os resultados só podem ser visualizados após o encerramento da enquete, garantindo a justiça e a integridade do seu processo. 
 
 
 
