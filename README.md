@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
- <a href="#-sobre-o-projeto"> Sobre</a> • 
+ <a href="#-sobre"> Sobre</a> • 
  <a href="#-funcionalidades"> Funcionalidades</a> • 
  <a href="#-usabilidade"> Usabilidade</a> • 
  <a href="#-layout"> Layout</a> • 
@@ -22,7 +22,7 @@
  <a href="#-desenvolvedores"> Desenvolvedores</a>
 </div>
 
-## 🗒️ Sobre o projeto
+## 🗒️ Sobre
 
 Este projeto é um sistema de Votação/Enquete online que permite aos usuários criar e participar de Votações/Enquetes de forma segura e transparente. 
 O sistema inclui uma funcionalidade de auditoria baseada em hash MD5 para garantir a integridade dos votos.
