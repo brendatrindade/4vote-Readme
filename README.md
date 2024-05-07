@@ -45,11 +45,29 @@ O layout da aplicação está disponível no Figma:
   <img alt="4Vote" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%23052A76">
 </a>
 
+##
+
+<div align="center">  
+  <img align="center" width=40% src="https://github.com/brendatrindade/4vote-Readme/blob/main/imagens/login.jpg">
+ </div>
+ 
+##
+
 <div align="center">  
   <img align="center" width=40% src="https://github.com/brendatrindade/4vote-Readme/blob/main/imagens/landpage.jpg">
  </div>
 
+##
 
+<div align="center">  
+  <img align="center" width=40% src="https://github.com/brendatrindade/4vote-Readme/blob/main/imagens/votacao.jpg">
+ </div>
+
+##
+
+<div align="center">  
+  <img align="center" width=40% src="https://github.com/brendatrindade/4vote-Readme/blob/main/imagens/enquete.jpg">
+ </div>
 
 
 
