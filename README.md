@@ -14,15 +14,15 @@
 </div>
 
 <div align="center">
- <a href="#-sobre"> Sobre</a> • 
+ <a href="#-sobre-o-projeto"> Sobre</a> • 
  <a href="#-funcionalidades"> Funcionalidades</a> • 
- <a href="#-usabilidade"> Usabilidade</a> • 
  <a href="#-layout"> Layout</a> • 
+ <a href="#-exemplo-de-uso"> Usabilidade</a> • 
  <a href="#-tecnologias"> Tecnologias</a> • 
  <a href="#-desenvolvedores"> Desenvolvedores</a>
 </div>
 
-## 🗒️ Sobre
+## 🗒️ Sobre o Projeto
 
 Este projeto é um sistema de Votação/Enquete online que permite aos usuários criar e participar de Votações/Enquetes de forma segura e transparente. 
 O sistema inclui uma funcionalidade de auditoria baseada em hash MD5 para garantir a integridade dos votos.
@@ -50,7 +50,7 @@ O sistema inclui uma funcionalidade de auditoria baseada em hash MD5 para garant
   <img align="center" width=40% src="https://github.com/brendatrindade/4vote-Readme/blob/main/imagens/landpage.jpg">
 </div>
 
-## 🖱️Usabilidade
+## 🖱️Exemplo de Uso
 
 <div align="center">  
   <img align="center" width=40% src="https://github.com/brendatrindade/4vote-Readme/blob/main/imagens/login.jpg">
