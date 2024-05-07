@@ -114,19 +114,19 @@ Em caso de múltiplas perguntas é possível navegar entre cada uma delas, clica
  
 <table>
   <tr>
-    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Amanda Lima </b></sub></a><br />👨‍💻</a></td>
-    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Antonio Vitor </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/59273272?v=4" width="100px;" alt=""/><br /><sub><b> Amanda Lima </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/98599229?v=4" width="100px;" alt=""/><br /><sub><b> Antonio Vitor </b></sub></a><br />👨‍💻</a></td>
     <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/142849685?s=400&u=8543d0a94d4b5fbb008e38ef7286be13a5209535&v=4" width="100px;" alt=""/><br /><sub><b> Brenda Araújo </b></sub></a><br />👨‍💻</a></td>
-    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Fernanda Marinho </b></sub></a><br />👨‍💻</a></td>
-    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Gabriel Baptista </b></sub></a><br />👨‍💻</a></td>
-    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Gabriel Henry </b></sub></a><br />👨‍💻</a></td>
-    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Ilson Neto </b></sub></a><br />👨‍💻</a></td>
-    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> José Gabriel </b></sub></a><br />👨‍💻</a></td>
-    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Luis Mario </b></sub></a><br />👨‍💻</a></td>
-    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Naylane Ribeiro </b></sub></a><br />👨‍💻</a></td>
-    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Pedro Mendes </b></sub></a><br />👨‍💻</a></td>
-    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Sara Souza </b></sub></a><br />👨‍💻</a></td>
-    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Thiago Sena </b></sub></a><br />👨‍💻</a></td>      
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/98289412?v=4" width="100px;" alt=""/><br /><sub><b> Fernanda Marinho </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/91295529?v=4" width="100px;" alt=""/><br /><sub><b> Gabriel Baptista </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/142272107?v=4" width="100px;" alt=""/><br /><sub><b> Gabriel Henry </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/143047526?s=80&u=ef232b45374ec63b1a927be6b9e05c2bd0910adb&v=4" width="100px;" alt=""/><br /><sub><b> Ilson Neto </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89746639?s=40&v=4" width="100px;" alt=""/><br /><sub><b> José Gabriel </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/142133059?v=4" width="100px;" alt=""/><br /><sub><b> Luis Mario </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89545660?s=80&u=48606493ce4c9b339475a8e1b8111929c9cfe5a9&v=4" width="100px;" alt=""/><br /><sub><b> Naylane Ribeiro </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/99758612?s=80&u=7dea8764eb7d0b8013fdcd139d72afd93da5599a&v=4" width="100px;" alt=""/><br /><sub><b> Pedro Mendes </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/143294885?v=4" width="100px;" alt=""/><br /><sub><b> Sara Souza </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/108939221?s=80&u=37243c1f89549badbb28062ec61ddc62638a8459&v=4" width="100px;" alt=""/><br /><sub><b> Thiago Sena </b></sub></a><br />👨‍💻</a></td>      
   </tr>
 </table>
 
