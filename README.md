@@ -55,6 +55,8 @@ O sistema inclui uma funcionalidade de auditoria baseada em hash MD5 para garant
 <div align="center">  
   <img align="center" width=40% src="https://github.com/brendatrindade/4vote-Readme/blob/main/imagens/login.jpg">
  </div>
+
+Após clicar em “Entrar” e acessar a conta inserindo o email e a senha cadastrados, o usuário acessa o sistema conectado em sua conta o que lhe permite ter acesso a todas as funcionalidades bem como criar enquetes/votações, participar e consultar o resultado final destas.
  
 ##
 
@@ -80,7 +82,7 @@ Após preencher todos os campos e adicionar todas as perguntas desejadas, o usu�
   <img align="center" width=40% src="https://github.com/brendatrindade/4vote-Readme/blob/main/imagens/responderEnquete.jpg">
 </div>
 
-Após clicar em “Participar” e no caso de enquetes privadas inserir o código da enquete, ou selecionar alguma enquete pública, o usuário é direcionado para uma nova tela onde pode visualizar as informações da enquete e participar da mesma. 
+Após clicar em “Participar” e no caso de enquetes privadas inserir o código da enquete, ou selecionar alguma enquete pública, o usuário é direcionado para uma nova tela onde pode visualizar as informações da enquete e participar da mesma.        
 Para responder a enquete, o usuário deve clicar sobre a alternativa de sua preferência para selecioná-la e, em seguida, clicar em “Responder” para confirmar sua resposta. Isso permite que os usuários participem de enquetes de maneira fácil e intuitiva, garantindo que suas respostas sejam registradas corretamente. Uma vez que a resposta é registrada, não pode ser alterada, garantindo a integridade da enquete.
 
 
