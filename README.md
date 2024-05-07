@@ -65,19 +65,19 @@ O layout da aplicação está disponível no Figma:
  
 <table>
   <tr>
-    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Amanda Lima </b></sub></a><br /><a href="" title="">👨‍💻</a></td>
-    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Antonio Vitor </b></sub></a><br /><a href="" title="">👨‍💻</a></td>
-    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Brenda Araújo </b></sub></a><br /><a href="" title="">👨‍💻</a></td>
-    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Fernanda Marinho </b></sub></a><br /><a href="" title="">👨‍💻</a></td>
-    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Gabriel Baptista </b></sub></a><br /><a href="" title="">👨‍💻</a></td>
-    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Gabriel Henry </b></sub></a><br /><a href="" title="">👨‍💻</a></td>
-    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Ilson Neto </b></sub></a><br /><a href="" title="">👨‍💻</a></td>
-    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> José Gabriel </b></sub></a><br /><a href="" title="">👨‍💻</a></td>
-    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Luis Mario </b></sub></a><br /><a href="" title="">👨‍💻</a></td>
-    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Naylane Ribeiro </b></sub></a><br /><a href="" title="">👨‍💻</a></td>
-    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Pedro Mendes </b></sub></a><br /><a href="" title="">👨‍💻</a></td>
-    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Sara Souza </b></sub></a><br /><a href="" title="">👨‍💻</a></td>
-    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Thiago Sena </b></sub></a><br /><a href="" title="">👨‍💻</a></td>      
+    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Amanda Lima </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Antonio Vitor </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Brenda Araújo </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Fernanda Marinho </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Gabriel Baptista </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Gabriel Henry </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Ilson Neto </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> José Gabriel </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Luis Mario </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Naylane Ribeiro </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Pedro Mendes </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Sara Souza </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b> Thiago Sena </b></sub></a><br />👨‍💻</a></td>      
   </tr>
 </table>
 
